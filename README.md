@@ -1,5 +1,8 @@
 # Face_Mask_Detector
 A Face Mask Detector Using Keras \ Tensorflow
+First : 
+download the dependences in the requirments.txt file using :
+-r requirements.txt  : then 
 
 Open the cmd and type py Detect_mask.py 
 
